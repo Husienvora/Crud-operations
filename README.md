@@ -11,4 +11,4 @@ To run locally <br />
 -cd to baceknd folder from the terminal<br />
 -run the command "npm install && npm start" to start the backend<br/>
 -and after that cd to the parent directory/folder in which github repo is cloned in other terminal and type in command "npm install && npm start" to start the frontend</br>
-the deployed version is making requests to https://husien-crud-api.herokuapp.com/api/v1 where the Node.js api is uplaoded while this version in repo is making request locally to the local hosted server http://localhost:5000/api/v1
+the deployed version is making requests to https://husien-crud-api.herokuapp.com/api/v1 where the Node.js api is deployed while this version in repo is making request locally to the local hosted server http://localhost:5000/api/v1
