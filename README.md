@@ -1,5 +1,5 @@
 ```diff
--Since free tier of heroku and netlify is used for deployment if backend and frontend respectively it may crash/sometime not run in that case please run the app locally
+-Since free tier of heroku and netlify is used for deployment of backend and frontend respectively it may crash/sometime not run in that case please run the app locally
 +Code is 100% functional
 ```
 To run locally <br />
